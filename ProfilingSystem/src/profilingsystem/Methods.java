@@ -14,7 +14,7 @@ public class Methods {
     static java.sql.Statement stmt = null;
 //    static File temp = new File("database.sqlite");
 //    static String url = "jdbc:sqlite:" + temp.getAbsolutePath().replace("\\","\\\\");
-    static String url = "jdbc:sqlite:C:\\Users\\franc\\Documents\\NetBeansProjects\\ProfilingSystem\\database.sqlite";
+    static String url = "jdbc:sqlite:C:\\Users\\yeems214\\Documents\\GitHub\\InventorySystem\\ProfilingSystem (Reference)";
     static String error = "";
     
     public static boolean openDB(){
