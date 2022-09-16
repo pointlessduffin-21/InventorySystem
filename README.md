@@ -1,9 +1,9 @@
 # InventorySystem
 
-#Purpose
+# Purpose
 This project was made as our last output for our Java Programming Bootcamp class from the Philippine Women's College of Davao. Our goal for this project is to make an Inventory Database that can be used on a simple sari-sari store for easy management of their inventory.
 
-#Requirements
+# Requirements
 - Apache NetBeans 
 - JCalendar 1.4
 - JGoodies Common 1.2.0
